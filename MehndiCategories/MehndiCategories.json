@@ -1,0 +1,76 @@
+{
+  "mehndiCategories": [
+    {
+      "categoryName": "Hand Mehndi",
+      "categoryNumber": "c1",
+      "categoryImage": "https://i.pinimg.com/736x/dd/b8/65/ddb8654eae3ed58d37035479102ebea4.jpg",
+      "name": "Hand Mehndi"
+    },
+    {
+      "categoryName": "Finger Mehndi",
+      "categoryNumber": "c2",
+      "categoryImage": "https://i.pinimg.com/736x/c8/ac/c1/c8acc156de8bf71f4b123a038db8c179.jpg",
+      "name": "Finger Mehndi"
+    },
+    {
+      "categoryName": "Leg Mehndi",
+      "categoryNumber": "c3",
+      "categoryImage": "https://pankhudihenna.com/wp-content/uploads/2024/08/WhatsApp-Image-2024-04-08-at-14.29.09_6582c10f.jpg",
+      "name": "Leg Mehndi"
+    },
+    {
+      "categoryName": "Child Hand Mehndi",
+      "categoryNumber": "c4",
+      "categoryImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Krishna/Krishna111.jpg",
+      "name": "Child Hand Mehndi"
+    },
+    {
+      "categoryName": "Full Hand Mehndi",
+      "categoryNumber": "c5",
+      "categoryImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Krishna/Krishna111.jpg",
+      "name": "Full Hand Mehndi"
+    },
+    {
+      "categoryName": "Nail Art",
+      "categoryNumber": "c6",
+      "categoryImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Ram/Ram1.jpg",
+      "name": "Nail Art"
+    },
+    {
+      "categoryName": "Leg Nail Art",
+      "categoryNumber": "c7",
+      "categoryImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Mahadev/Mahadev2.jpg",
+      "name": "Leg Nail Art"
+    },
+    {
+      "categoryName": "Hair Style",
+      "categoryNumber": "c8",
+      "categoryImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Hanuman/Hanuman84.jpg",
+      "name": "Hair Style"
+    },
+    {
+      "categoryName": "Child Hair Style",
+      "categoryNumber": "c9",
+      "categoryImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Krishna/Krishna111.jpg",
+      "name": "Child Hair Style"
+    },
+    {
+      "categoryName": "Makeup",
+      "categoryNumber": "c10",
+      "categoryImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Krishna/Krishna111.jpg",
+      "name": "Makeup"
+    },
+    {
+      "categoryName": "Eye Makeup",
+      "categoryNumber": "c11",
+      "categoryImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Krishna/Krishna111.jpg",
+      "name": "Eye Makeup"
+    },
+    {
+      "categoryName": "Tattoo Design",
+      "categoryNumber": "c12",
+      "categoryImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Krishna/Krishna111.jpg",
+      "name": "Tattoo Design"
+    }
+  ]
+}
